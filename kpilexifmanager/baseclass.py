@@ -7,7 +7,7 @@ import struct
 import piexif
 from PIL import Image, UnidentifiedImageError
 
-from kmarotools.basics import logtools, convert
+from kjmarotools.basics import logtools, convert
 
 
 class PrivateTools:

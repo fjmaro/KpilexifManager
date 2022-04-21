@@ -41,4 +41,4 @@ setup(name="KpilexifManager",
       python_requires='>=3.9',
       packages=["kpilexifmanager"],
       install_requires=['piexif==1.1.3', 'pillow==8.4.0',
-                        'kmarotools @ git+https://github.com/fjmaro/KmaroTools@main'])
+                        'kjmarotools @ git+https://github.com/fjmaro/KjmaroTools@main'])
